@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, I'M Andika Ependi 👋
+
+![AndikaEp](/img/14112604.jpg)
 
 <!--
 **andikaaae/andikaaae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Home**
+- 🌱 I’m currently learning [**TailwindCSS**](https://tailwindcss.com) Framework
